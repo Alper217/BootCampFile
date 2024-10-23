@@ -1,0 +1,14 @@
+C:\Users\A\source\repos\BootCampV2\FirstWeekHomework\bin\Debug\net8.0\FirstWeekHomework.exe
+C:\Users\A\source\repos\BootCampV2\FirstWeekHomework\bin\Debug\net8.0\FirstWeekHomework.deps.json
+C:\Users\A\source\repos\BootCampV2\FirstWeekHomework\bin\Debug\net8.0\FirstWeekHomework.runtimeconfig.json
+C:\Users\A\source\repos\BootCampV2\FirstWeekHomework\bin\Debug\net8.0\FirstWeekHomework.dll
+C:\Users\A\source\repos\BootCampV2\FirstWeekHomework\bin\Debug\net8.0\FirstWeekHomework.pdb
+C:\Users\A\source\repos\BootCampV2\FirstWeekHomework\obj\Debug\net8.0\FirstWeekHomework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A\source\repos\BootCampV2\FirstWeekHomework\obj\Debug\net8.0\FirstWeekHomework.AssemblyInfoInputs.cache
+C:\Users\A\source\repos\BootCampV2\FirstWeekHomework\obj\Debug\net8.0\FirstWeekHomework.AssemblyInfo.cs
+C:\Users\A\source\repos\BootCampV2\FirstWeekHomework\obj\Debug\net8.0\FirstWeekHomework.csproj.CoreCompileInputs.cache
+C:\Users\A\source\repos\BootCampV2\FirstWeekHomework\obj\Debug\net8.0\FirstWeekHomework.dll
+C:\Users\A\source\repos\BootCampV2\FirstWeekHomework\obj\Debug\net8.0\refint\FirstWeekHomework.dll
+C:\Users\A\source\repos\BootCampV2\FirstWeekHomework\obj\Debug\net8.0\FirstWeekHomework.pdb
+C:\Users\A\source\repos\BootCampV2\FirstWeekHomework\obj\Debug\net8.0\FirstWeekHomework.genruntimeconfig.cache
+C:\Users\A\source\repos\BootCampV2\FirstWeekHomework\obj\Debug\net8.0\ref\FirstWeekHomework.dll

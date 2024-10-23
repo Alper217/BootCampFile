@@ -1,0 +1,14 @@
+C:\Users\A\source\repos\BootCampV2\GeneralRepeat\bin\Debug\net8.0\GeneralRepeat.exe
+C:\Users\A\source\repos\BootCampV2\GeneralRepeat\bin\Debug\net8.0\GeneralRepeat.deps.json
+C:\Users\A\source\repos\BootCampV2\GeneralRepeat\bin\Debug\net8.0\GeneralRepeat.runtimeconfig.json
+C:\Users\A\source\repos\BootCampV2\GeneralRepeat\bin\Debug\net8.0\GeneralRepeat.dll
+C:\Users\A\source\repos\BootCampV2\GeneralRepeat\bin\Debug\net8.0\GeneralRepeat.pdb
+C:\Users\A\source\repos\BootCampV2\GeneralRepeat\obj\Debug\net8.0\GeneralRepeat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A\source\repos\BootCampV2\GeneralRepeat\obj\Debug\net8.0\GeneralRepeat.AssemblyInfoInputs.cache
+C:\Users\A\source\repos\BootCampV2\GeneralRepeat\obj\Debug\net8.0\GeneralRepeat.AssemblyInfo.cs
+C:\Users\A\source\repos\BootCampV2\GeneralRepeat\obj\Debug\net8.0\GeneralRepeat.csproj.CoreCompileInputs.cache
+C:\Users\A\source\repos\BootCampV2\GeneralRepeat\obj\Debug\net8.0\GeneralRepeat.dll
+C:\Users\A\source\repos\BootCampV2\GeneralRepeat\obj\Debug\net8.0\refint\GeneralRepeat.dll
+C:\Users\A\source\repos\BootCampV2\GeneralRepeat\obj\Debug\net8.0\GeneralRepeat.pdb
+C:\Users\A\source\repos\BootCampV2\GeneralRepeat\obj\Debug\net8.0\GeneralRepeat.genruntimeconfig.cache
+C:\Users\A\source\repos\BootCampV2\GeneralRepeat\obj\Debug\net8.0\ref\GeneralRepeat.dll
